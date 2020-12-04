@@ -1,0 +1,80 @@
+{"MyData":[
+    {
+        "id": "0",
+        "title": "HK416",
+        "content": "Green stock",
+        "imageUri": "https://i.imgur.com/Fb6UIIc.jpg"
+    },
+    {
+        "id": "1",
+        "title": "Space Trooper",
+        "content": "The Beauty HK416",
+        "imageUri": "https://i.redd.it/0ln0dj2mchh41.jpg"
+    },
+    {
+        "id": "2",
+        "title": "AK 74",
+        "content": "WTF is dis",
+        "imageUri": "https://i.imgur.com/WKiK0sGh.jpg"
+    },
+    {
+        "id": "3",
+        "title": "M1A",
+        "content": "Good Auto Single Gun",
+        "imageUri": "https://forum.escapefromtarkov.com/uploads/monthly_2018_05/1941227281_2018-05-0319-12(2).png.50dd5d5263c17afb440660c445a20662.png"
+    },
+    {
+        "id": "4",
+        "title": "RPK",
+        "content": "Light machine gun",
+        "imageUri": "https://i.imgur.com/2KdTW12.jpg"
+    },
+    {
+        "id": "5",
+        "title": "M700",
+        "content": "Sniper Riffle",
+        "imageUri": "https://i.imgur.com/5IipSlh.jpg"
+    },
+    {
+        "id": "6",
+        "title": "TX 15",
+        "content": "Sniper Riffle",
+        "imageUri": "https://preview.redd.it/30hy8zicass41.jpg?width=1920&format=pjpg&auto=webp&s=2775211c1f48f45fc648bbf3cee390ca0d463b6c"
+    },
+    {
+        "id": "7",
+        "title": "SVD",
+        "content": "Sniper Riffle",
+        "imageUri": "https://external-preview.redd.it/Urfco3vximXR2bPbt93Sj6jfRXa9g3AQwO8knYX2tgE.png?width=640&crop=smart&format=pjpg&auto=webp&s=eed63dcfd11cc1cc03695295ede29558ee360083"
+    },
+    {
+        "id": "12",
+        "title": "SKS",
+        "content": "Sniper Riffle",
+        "imageUri": "https://forum.escapefromtarkov.com/uploads/monthly_2019_11/112347598_2019-11-2922-23(0).png.1f580ac697d7a9851bf53ca57f4a10a3.png"
+    },
+    {
+        "id": "8",
+        "title": "Mosin",
+        "content": "Sniper Riffle",
+        "imageUri": "https://forum.escapefromtarkov.com/uploads/monthly_2018_10/480917051_2018-10-1216-33(1).png.00f558784dd57aafe9e6a4f3be02d9df.png"
+    },
+    {
+        "id": "9",
+        "title": "MPX",
+        "content": "SMG",
+        "imageUri": "https://gamepedia.cursecdn.com/escapefromtarkov_ru_gamepedia/8/86/Oruzheinik_Chast_13_%28SIG_MPX%29_02.png"
+    },
+    {
+        "id": "10",
+        "title": "MP5",
+        "content": "SMG",
+        "imageUri": "https://i.redd.it/7ilb91oc4pt01.png"
+    },
+    {
+        "id": "11",
+        "title": "MP9",
+        "content": "SMG",
+        "imageUri": "https://i.redd.it/tbp0jr1su8741.jpg"
+    }
+]}
